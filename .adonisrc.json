@@ -18,6 +18,7 @@
   ],
   "providers": [
     "./providers/AppProvider",
+    "./providers/RepositoryProvider",
     "@adonisjs/core"
   ],
   "aceProviders": [
